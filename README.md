@@ -4,5 +4,5 @@ Javascript project
 
 Bootstrap 4 
 
-http://anyquery.hu/loancalc/index.html
+https://rumpler1123.github.io/calculator/index.html
 
